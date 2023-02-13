@@ -1,1 +1,1 @@
-# PythonOOP-Trivia-Game
+# Trivia-Game
